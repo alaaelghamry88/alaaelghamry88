@@ -1,6 +1,6 @@
 # Hey, I'm Alaa 👋
 
-**Mid-Senior Frontend Engineer** · Alexandria, Egypt · Open to remote
+**Mid-Senior Frontend Engineer** · Egypt · Open to remote
 
 I build fast, scalable web applications with React and Next.js — and I work with AI as a core part of how I engineer, not as an afterthought. I'm currently at **Trianglz**, shipping across multiple production codebases, running design systems, and mentoring engineers.
 
